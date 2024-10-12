@@ -22,6 +22,11 @@ If your workspace has no uncommitted files, and you want to copy the latest chan
 ```bash
 git pull
 ```
+If there is some problems while pulling the changes and you want to stop you can use 
+```bash
+git 
+```
+
 it is possible to add flags like --rebase  
 check this to learn about them 
 https://git-scm.com/docs/git-pull
