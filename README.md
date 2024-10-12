@@ -1,6 +1,14 @@
 # GettingStartedWithGIT
 Some basic instructions and resources to get started with GIT
 
+# install & account auth stuff
+Follow this link[https://help.github.com/articles/about-ssh/] to learn more about SSH.
+Go here to check if you have an existing SSH key.
+Go here to generate a SSH Key.
+Go here to add the SSH key to your GitHub account.
+And finally go here to test its connection.
+
+
 # setup
 1. start a rmeote by following this https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories
 2. create a local repo by navigating to the working directory and running
