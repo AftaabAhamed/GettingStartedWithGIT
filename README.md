@@ -1,5 +1,8 @@
 # GettingStartedWithGIT
 Some basic instructions and resources to get started with GIT
+\n
+this is a good resource 
+https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
 
 # install & account auth stuff
 1. Follow this link[https://help.github.com/articles/about-ssh/] to learn more about SSH.
