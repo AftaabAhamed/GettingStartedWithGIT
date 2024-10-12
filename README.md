@@ -1,6 +1,6 @@
 # GettingStartedWithGIT
-Some basic instructions and resources to get started with GIT__
-this is a good resource__ 
+Some basic instructions and resources to get started with GIT  
+this is a good resource  
 https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
 
 # install & account auth stuff
