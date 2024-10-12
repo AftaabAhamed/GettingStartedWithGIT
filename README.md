@@ -2,11 +2,11 @@
 Some basic instructions and resources to get started with GIT
 
 # install & account auth stuff
-Follow this link[https://help.github.com/articles/about-ssh/] to learn more about SSH.
-Go here to check if you have an existing SSH key.
-Go here to generate a SSH Key.
-Go here to add the SSH key to your GitHub account.
-And finally go here to test its connection.
+1. Follow this link[https://help.github.com/articles/about-ssh/] to learn more about SSH.
+2. Go here[https://help.github.com/articles/checking-for-existing-ssh-keys/] to check if you have an existing SSH key.
+3. Go here(https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/) to generate a SSH Key.
+4. Go here to add the SSH key to your GitHub account.
+5. And finally go here to test its connection.
 
 
 # setup
