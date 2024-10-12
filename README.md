@@ -19,3 +19,20 @@ git clone <url>
 the repo you cloned from is automatically added as the remote 
 # Fetch and Pull
 If your workspace has no uncommitted files, and you want to copy the latest changes from a remote repository directly into your working directory, then issue the git pull command.
+```bash
+git pull
+```
+it is possible to add flags like --rebase  
+check this to learn about them 
+https://git-scm.com/docs/git-pull
+
+
+git pull will bring all the changes from remote to your workspace
+```bash
+git fetch
+git merge
+```
+git pull is kind of equvalent to both these commands so if you have uncommited changes in your workspace fetch them and merge them after
+
+# Merge and Rebase
+
