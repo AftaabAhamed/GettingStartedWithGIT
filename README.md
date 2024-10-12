@@ -34,6 +34,12 @@ git merge
 ```
 git pull is kind of equvalent to both these commands so if you have uncommited changes in your workspace fetch them and merge them after
 
+# Branches
+git repo can have many branches that contains different versions of the same project that exists in paralell
+
+```bash
+git checkout -b <new_branch_name> <original_branch> 
+```
 # Merge and Rebase
 A good video about merge and rebase
 https://www.youtube.com/watch?v=zOnwgxiC0OA
