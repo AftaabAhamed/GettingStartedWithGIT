@@ -37,9 +37,15 @@ git pull is kind of equvalent to both these commands so if you have uncommited c
 # Branches
 git repo can have many branches that contains different versions of the same project that exists in paralell
 
+creating a new branch
 ```bash
 git checkout -b <new_branch_name> <original_branch> 
 ```
+navigating to different branches
+```bash
+git checkout <branch_name>
+```
+
 # Merge and Rebase
 A good video about merge and rebase
 https://www.youtube.com/watch?v=zOnwgxiC0OA
