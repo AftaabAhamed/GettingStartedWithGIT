@@ -35,4 +35,8 @@ git merge
 git pull is kind of equvalent to both these commands so if you have uncommited changes in your workspace fetch them and merge them after
 
 # Merge and Rebase
+A good video about merge and rebase
+https://www.youtube.com/watch?v=zOnwgxiC0OA
+
+
 
